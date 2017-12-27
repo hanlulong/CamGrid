@@ -1,2 +1,2 @@
 # CamGrid
-Practical Utilities for CamGrid
+Utilities for CamGrid
